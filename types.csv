@@ -1,0 +1,16 @@
+BLANK,Blue,Red,Green,Yellow,Purple,Pink,Gold,Silver,Bronze,Magenta,Rainbow,Neopolitan,Navy,White,Black
+Blue,2x,2x,2x,2x,0.5x,0.5x,0.5x,2x,1x,0.5x,2x,0.5x,2x,0.5x,0.5x
+Red,0.5x,2x,1x,2x,1x,2x,2x,2x,0.5x,0.5x,2x,2x,1x,2x,0.5x
+Green,0.5x,1x,1x,1x,2x,2x,0.5x,0.5x,0.5x,1x,0.5x,0.5x,0.5x,2x,0.5x
+Yellow,0.5x,0.5x,1x,2x,0.5x,1x,1x,0.5x,2x,2x,0.5x,0.5x,2x,0.5x,2x
+Purple,2x,1x,0.5x,2x,2x,1x,0.5x,0.5x,0.5x,0.5x,2x,1x,0.5x,0.5x,2x
+Pink,2x,0.5x,0.5x,1x,1x,2x,2x,1x,0.5x,2x,2x,2x,2x,2x,2x
+Gold,2x,0.5x,2x,1x,2x,0.5x,2x,2x,2x,2x,0.5x,0.5x,2x,0.5x,2x
+Silver,0.5x,0.5x,2x,2x,2x,1x,0.5x,1x,2x,2x,2x,2x,2x,1x,0.5x
+Bronze,1x,2x,2x,0.5x,2x,2x,0.5x,0.5x,1x,0.5x,2x,2x,2x,1x,0.5x
+Magenta,2x,2x,1x,0.5x,2x,2x,0.5x,0.5x,2x,1x,1x,2x,2x,1x,0.5x
+Rainbow,0.5x,0.5x,2x,2x,0.5x,0.5x,2x,0.5x,0.5x,1x,2x,1x,1x,2x,0.5x
+Neopolitan,2x,0.5x,2x,2x,1x,0.5x,2x,0.5x,0.5x,0.5x,1x,1x,0.5x,0.5x,0.5x
+Navy,0.5x,1x,2x,0.5x,2x,0.5x,0.5x,0.5x,0.5x,0.5x,1x,2x,1x,0.5x,0.5x
+White,2x,0.5x,0.5x,2x,2x,0.5x,2x,1x,1x,1x,0.5x,2x,2x,2x,2x
+Black,2x,2x,2x,0.5x,0.5x,0.5x,0.5x,2x,2x,2x,2x,2x,2x,0.5x,1x
